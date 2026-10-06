@@ -1,0 +1,15 @@
+streamlit==1.40.1
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.10.3
+Pillow==11.0.0
+
+transformers>=4.40,<5
+torch>=2.1
+pypdf>=4.0
+
+huggingface_hub>=0.28
+gTTS>=2.5
+
+faster-whisper>=1.1.1
+av<14
